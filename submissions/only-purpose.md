@@ -16,4 +16,10 @@
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
+# Router Track Mission 2 (16.05-23.05)
+
+ 2. Guides and your experience articles about running router in socials (medium etc.) in any language
+   - I made a small guide for my Ukrainian brothers
+      
+     - https://github.com/only-purpose/Ukranian-guide
   
